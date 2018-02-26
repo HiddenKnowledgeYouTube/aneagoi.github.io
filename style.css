@@ -1,0 +1,33 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("http://hdqwalls.com/wallpapers/mr-robot-mask-f-society-artwork-4k-on.jpg");
+  background-size: cover;
+  height: 100%;
+}
+/*.col {
+	background-color: red;
+	border: 3px solid red;
+	align-self: bottom; 
+}*/
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+.btn-primary:hover {
+  background-color: blue;
+  border-color: blue;
+  border-width: 5px;
+  cursor: pointer;
+}
+.btn {
+font-family: 'Boogaloo', cursive, bold;
+margin-top: 800px;
+margin-left: 15px;
+color: black;
+}
